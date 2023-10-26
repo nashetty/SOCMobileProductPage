@@ -114,6 +114,7 @@ body {
   font-size: 0.7rem;
   color: var(--orange);
   letter-spacing: 0.1rem;
+  text-transform: capitalize;
 }
 
 .product-description {
