@@ -178,3 +178,16 @@ body {
   filter: brightness(0) saturate(100%) invert(1);
   margin-right: var(--small-padding);
 }
+
+.add-to-cart-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#quantity {
+  padding: 2vh;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin: 0 5px;
+}
