@@ -164,10 +164,13 @@ body {
   color: var(--white);
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  /* justify-content: left; */
+  justify-content: center;
   align-items: center;
   border-radius: 2vmin;
   padding: 2vh;
+  background-color: hsl(26, 100%, 55%);
+  
 }
 
 .add-to-cart img {
